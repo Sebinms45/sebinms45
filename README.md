@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm sebin ms</h1>
-<h3 align="center">An engineering student who looking to explore the world</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebinms45&label=Profile%20views&color=0e75b6&style=flat" alt="sebinms45" /> </p>
 
