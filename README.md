@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Sebinms45/sebinms45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebinms45&label=Profile%20views&color=0e75b6&style=flat" alt="sebinms45" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebinms45" alt="sebinms45" /></a> </p>
-
-
+<p align="left"> <a href="https://twitter.com/ms_sebin" target="blank"><img src="https://img.shields.io/twitter/follow/ms_sebin?logo=twitter&style=for-the-badge" alt="ms_sebin" /></a> </p>
 
 - 📫 How to reach me **sebinkelakam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ms_sebin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ms_sebin" height="30" width="40" /></a>
+<a href="https://twitter.com/ms_sebin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ms_sebin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sebin ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebin ms" height="30" width="40" /></a>
 <a href="https://fb.com/sebinms kelakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sebinms kelakam" height="30" width="40" /></a>
 <a href="https://instagram.com/sebin__ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebin__ms" height="30" width="40" /></a>
