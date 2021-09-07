@@ -1,7 +1,7 @@
 ### Let's Connect:
 <p align="center">
 	<a href="https://github.com/sebinms45"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="www.linkedin.com/in/sebin-ms-3b5397211"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/sebin-ms-3b5397211"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/sebin__ms/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href=https://twitter.com/ms_sebin><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 
