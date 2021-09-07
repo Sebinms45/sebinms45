@@ -11,9 +11,9 @@
 
 
 <h1 align
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebinms45&label=Profile%20views&color=0e75b6&style=flat" alt="sebinms45" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sebinms45&label=Profile%20views&color=0e75b6&style=flat" alt="sebinms45" /> </p>
 
-- 📫 How to reach me **sebinkelakam@gmail.com**
+  - 📫 How to reach me **sebinkelakam@gmail.com**
 
 
 
@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinms45&show_icons=true&locale=en&layout=compact" alt="sebinms45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebinms45&show_icons=true&locale=en" alt="sebinms45" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sebinms45&show_icons=true&locale=en" alt="sebinms45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebinms45&" alt="sebinms45" /></p>
 
