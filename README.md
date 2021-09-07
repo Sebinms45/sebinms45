@@ -4,7 +4,7 @@
 	<a href="https://www.linkedin.com/in/sebin-ms-3b5397211"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/sebin__ms/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href=https://twitter.com/ms_sebin><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-        <a.bref="https://www.youtube.com/c/sebin ms eee"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="youtube"/></a>
+        <a.bref="https://www.youtube.com/channel/UCmLGv5FheiCSr1cH8GPGILQ"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="youtube"/></a>
         <a.bref="https://discord.gg/#5255"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="discord"/></a>
 
 
